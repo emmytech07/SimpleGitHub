@@ -9,3 +9,7 @@
 
 ### Built with ??
 - Html and Css
+
+### License
+
+This project is [MIT](./LICENSE) licensed.
